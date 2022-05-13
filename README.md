@@ -18,5 +18,5 @@
 
 ### Stats
 
-[![nilaoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfvips&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfvips&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![dfvips's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfvips&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfvips&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
