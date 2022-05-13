@@ -4,8 +4,6 @@
 - 🕊 I write open source software in my free time
 - 💬 Ask me about **Computer Programming**
 
-## My Stats
-
 ### Enemies
 
 ☠️&nbsp;&nbsp;Mortality&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;🤔&nbsp;&nbsp;Ignorance&nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;😡&nbsp;&nbsp;Hate
@@ -18,4 +16,4 @@
 
 <br/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dfvips&show_icons=true&locale=en)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dfvips&show_icons=true&locale=en&include_all_commits=true)
