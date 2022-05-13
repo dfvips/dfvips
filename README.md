@@ -5,12 +5,15 @@
 - 😄 I write open source software in my free time
 - 💬 Ask me about * WEB-DL / JAVA / JS / Chrome Exextensions
 
+### Contact 
+Email: dfvips@qq.com
+
+### Freind
+<a href="https://github.com/nilaoda">nilaoda</a》
+
 ### Motto
 
 - 📫 Chase it if you have a dream. What if there is a chance that it will come true?
-
-### Contact 
-Email: dfvips@qq.com
 
 ### Stats
 
