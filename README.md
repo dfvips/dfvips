@@ -18,4 +18,4 @@
 
 <br/>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dfvips&show_icons=true&locale=zh)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=dfvips&show_icons=true&locale=en)
