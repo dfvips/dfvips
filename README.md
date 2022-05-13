@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dreamfly</h1>
 
-- 🔭 I’m currently working work in Shenzhen
+- 🔭 I’m currently working work in <a href="https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3/140588">Shenzhen</a>
 - 🕊 I write open source software in my free time
 - 💬 Ask me about **Computer Programming**
 
