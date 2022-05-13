@@ -13,7 +13,7 @@
 
 ### Motto
 
-- 📫 Chase it if you have a dream. What if there is a chance that it will come true?
+- 📢 Chase it if you have a dream. What if there is a chance that it will come true?
 
 ### Stats
 
