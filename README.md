@@ -6,10 +6,10 @@
 - 💬 Ask me about * WEB-DL / JAVA / JS / Chrome Exextensions
 
 ### Github Freind
-<a href="https://github.com/nilaoda">nilaoda</a>
+- <a href="https://github.com/nilaoda">nilaoda</a>
 
 ### Contact 
-Email: dfvips@qq.com
+- Email: dfvips@qq.com
 
 ### Motto
 
