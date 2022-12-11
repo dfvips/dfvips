@@ -12,10 +12,6 @@
 
 - 📢 Chase it if you have a dream. What if there is a chance that it will come true?
 
-### BuyMeACoffee
-
-<a href="https://www.buymeacoffee.com/dreamfly" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 ### Stats
 
 [![dfvips's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfvips&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfvips&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,3 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### BuyMeACoffee
+
+<a href="https://www.buymeacoffee.com/dreamfly" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
