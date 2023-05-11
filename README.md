@@ -3,7 +3,7 @@
 ### Introduction
 - 🌱 I’m currently working in <a href="https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3/140588">Shenzhen</a>
 - 😄 I write open source software in my free time
-- 💬 Ask me about * WEB-DL / JAVA / JS / Chrome Exextensions
+- 💬 Ask me about * WEB-DL / JAVA / Python/ JS / Chrome Exextensions
 
 ### Contact 
 - Email: dfvips@qq.com
